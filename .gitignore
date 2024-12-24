@@ -1,0 +1,6 @@
+.venv/
+.env
+vapid_private.pem
+private_key.txt
+vapid_public.pem
+public_key.txt
